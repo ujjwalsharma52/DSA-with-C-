@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/ujjwa/OneDrive/Desktop/DSA with c++/.vscode",
-      "program": "c:/Users/ujjwa/OneDrive/Desktop/DSA with c++/.vscode/build/Debug/outDebug",
+      "cwd": "c:/Users/ujjwa/OneDrive/Desktop/DSA with c++",
+      "program": "c:/Users/ujjwa/OneDrive/Desktop/DSA with c++/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
